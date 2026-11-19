@@ -1,0 +1,11 @@
+# Dados privados — nunca enviar ao GitHub
+dados/bruto/
+
+# Temporários do Excel e Power BI
+~$*
+*.tmp
+
+# Sistema
+Thumbs.db
+desktop.ini
+.vscode/
